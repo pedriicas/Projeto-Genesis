@@ -1,0 +1,11 @@
+.caixatexto{
+    background-color: transparent;
+    border-width: 3.5px;
+    border-color: white;
+    border-radius: 100px;
+    padding: 10px;
+}
+
+::placeholder{
+    color: white;
+}
