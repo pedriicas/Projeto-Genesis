@@ -1,11 +1,21 @@
 .caixatexto{
-    background-color: transparent;
-    border-width: 3.5px;
+    background-color: white;
+    border-width: 5.8px;
     border-color: white;
-    border-radius: 100px;
-    padding: 10px;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.header {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 ::placeholder{
-    color: white;
+    color: black;
 }

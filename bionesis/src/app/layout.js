@@ -29,6 +29,7 @@ export default function RootLayout({ children }) {
     </div>
       <div className="content-wrapper">
         {children}
+
         </div>
       </body>
     </html>
